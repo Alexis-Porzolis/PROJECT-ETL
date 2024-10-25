@@ -30,6 +30,6 @@
 
   -Diseñé el DWH siguiendo un modelo estrella, con tres tablas dimensionales y una tabla de hechos, de acuerdo a los requerimientos.
 
-7.Resolución de las Consignas:
+7.Demostración en base a querys:
   
   -Finalmente, resolví algunas querys para determinar mi resultado
