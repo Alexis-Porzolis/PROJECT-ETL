@@ -32,4 +32,4 @@
 
 7.Resolución de las Consignas:
   
-  -Finalmente, resolví las consignas asignadas, logrando responder 6 de las 8 preguntas planteadas.
+  -Finalmente, resolví algunas querys para determinar mi resultado
