@@ -1,3 +1,8 @@
+Dejo asentado el link a los dos dataset faltantes:
+https://drive.google.com/file/d/1bdeKnUbDx_QvUaaiGW3qxt190QzZtjXO/view?usp=sharing
+https://drive.google.com/file/d/1-nFXQ_5P10Wn92LCaXb9_PY8r7_4tqsR/view?usp=sharing
+
+
 1.Análisis Inicial de los Archivos CSV: 													
 
   -Realicé una revisión preliminar de los archivos CSV para entender su estructura y contenido.
